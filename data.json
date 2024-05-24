@@ -1,0 +1,13 @@
+[
+    {
+        "name": "John Doe",
+        "issue": "avaloire bouché",
+        "description": "L'avaloire devant le numéro 10 est bouché.",
+        "photo": "data:image/png;base64,...", 
+        "location": {
+            "lat": 50.501,
+            "lng": 4.001
+        },
+        "date": "2024-05-23T08:00:00Z"
+    }
+]
